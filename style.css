@@ -32,7 +32,7 @@ h2 {
 .project {
     margin-bottom: 20px;
 }
-.project h3 {
+.project h3 
     margin: 0 0 10px;
     color: #333;
 }
@@ -44,8 +44,10 @@ footer {
     text-alingn: center;
     padding: 10px 0;
     background: #333;
+    color: white;
     margin-top: 20px;
 }
 footer a {
-  color:
+  color:#fad7dc;
+   text-decoration: none;
 }
